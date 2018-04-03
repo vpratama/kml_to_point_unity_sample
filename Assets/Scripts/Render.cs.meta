@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ed6a2819fbc73141ad64fb6cc245d0a
+timeCreated: 1522742734
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - titik: {fileID: 1042796870113522, guid: 89504bac93d43074eb70f08d8421bbfc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
